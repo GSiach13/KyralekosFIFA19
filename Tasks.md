@@ -1,8 +1,8 @@
 Tasks from Kaggle:
 - [X] Best players 
 - [X] RF/LF Players 
-- [ ] Nationality distribution 
-- [ ] Wages - Value (do the scatter plot)
+- [X] Nationality distribution 
+- [X] Wages - Value (do the scatter plot)
 - [ ] Rating distribution 
 - [ ] Positions distribution 
 - [ ] Model testing --> predict potential overall 
